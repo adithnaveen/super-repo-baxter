@@ -1,0 +1,6 @@
+[submodule "baxter-vendor-module"]
+	path = baxter-vendor-module
+	url = https://github.com/adithnaveen/baxter-vendor-module.git
+[submodule "baxter-demo-mono-delete"]
+	path = baxter-demo-mono-delete
+	url = https://github.com/adithnaveen/baxter-demo-mono-delete.git
